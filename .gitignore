@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Next.js build cache
+.next/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+

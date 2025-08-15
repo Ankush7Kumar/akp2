@@ -34,13 +34,13 @@ const social = [
     icon: "github",
     link: "https://github.com/ankush7kumar",
   },
-  
+   /*
   {
     name: "LinkedIn",
     icon: "linkedin",
     link: "https://www.linkedin.com/in/ankush7kumar",
   },
- /*
+ 
   {
     name: "Threads",
     icon: "threads",
