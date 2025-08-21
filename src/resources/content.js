@@ -185,7 +185,7 @@ work: {
       images: [],
     },
     {
-      company: "Deloitte Digital",
+      company: "Souhtern Ontario Cricket League (SOCA)",
       timeframe: "May 2021 - August 2021",
       role: "Web Developer",
       achievements: [
