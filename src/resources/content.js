@@ -185,7 +185,7 @@ work: {
       images: [],
     },
     {
-      company: "Souhtern Ontario Cricket League (SOCA)",
+      company: "Southern Ontario Cricket League (SOCA)",
       timeframe: "May 2021 - August 2021",
       role: "Web Developer",
       achievements: [
