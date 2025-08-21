@@ -205,26 +205,6 @@ work: {
       images: [],
     },
     {
-      company: "PetroWagon",
-      timeframe: "August 2019 - January 2020",
-      role: "Software Engineer",
-      achievements: [
-        <>
-          Developed an Android App from scratch using Java and XML for a fuel delivery-based startup allowing simultaneous multiple orders.
-        </>,
-        <>
-          Programmed app’s local database using Android Room and implemented SQL queries to store mutable live data.
-        </>,
-        <>
-          Built onboarding flow to collect user information for customized suggestions.
-        </>,
-        <>
-          Maintained structured code using MVVM architecture to enhance reusability and optimized app performance.
-        </>,
-      ],
-      images: [],
-    },
-    {
       company: "ICSD Tech Labs",
       timeframe: "May 2018 - August 2018",
       role: "C++ Tutor",
